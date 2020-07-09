@@ -774,7 +774,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "grazia-beauty-parlor-1",
+        "displayName": "Grazias Area"
+      },
       "geometry": {
         "type": "LineString",
         "coordinates": [
