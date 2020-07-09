@@ -1,4 +1,11 @@
 {
+  "position": {
+    "center": [
+      12.97655,
+      77.61797
+    ],
+    "zoom": 17
+  },
   "type": "FeatureCollection",
   "features": [
     {
